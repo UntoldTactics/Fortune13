@@ -750,6 +750,7 @@
 		/obj/item/storage/bag/money/small/legofficers=2,
 		/obj/item/taperecorder=1,
 		/obj/item/book/granter/trait/tinkering)
+		/obj/item/book/granter/trait/tinkering=1)
 
 /datum/outfit/loadout/auxmedicus
 	name =		"Medicus (Surgeon)"
