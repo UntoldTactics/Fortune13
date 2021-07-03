@@ -808,8 +808,8 @@
 	item_state = "assault_carbine"
 	slot_flags = 0
 	mag_type = /obj/item/ammo_box/magazine/m556/rifle
-	fire_delay = 3
-	burst_shot_delay = 1
+	fire_delay = 3.5
+	burst_shot_delay = 2
 	spread = 10
 	can_attachments = TRUE
 	can_scope = TRUE
