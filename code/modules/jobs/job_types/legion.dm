@@ -834,6 +834,10 @@ commented out pending rework*/
 		/obj/item/pen/fountain=1,
 		/obj/item/storage/bag/money/small/legofficers=2,
 		/obj/item/taperecorder=1,
+<<<<<<< HEAD
+=======
+		/obj/item/book/granter/trait/tinkering)
+>>>>>>> 3b4936caafd05efe5e872c0e0da318e501615550
 		/obj/item/book/granter/trait/tinkering=1)
 
 /datum/outfit/loadout/auxmedicus
