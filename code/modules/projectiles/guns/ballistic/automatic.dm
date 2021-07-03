@@ -854,9 +854,9 @@
 	item_state = "R84"
 	slowdown = 1
 	mag_type = /obj/item/ammo_box/magazine/lmg
-	burst_size = 3
+	burst_size = 1
 	fire_delay = 5
-	burst_shot_delay = 2
+	burst_shot_delay = 2.5
 	can_attachments = FALSE
 	fire_sound = 'sound/f13weapons/assaultrifle_fire.ogg'
 
