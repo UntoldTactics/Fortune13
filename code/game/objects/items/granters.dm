@@ -721,6 +721,11 @@
 	icon_state = "blueprint2"
 	crafting_recipe_types = list(/datum/crafting_recipe/AER9)
 
+/obj/item/book/granter/crafting_recipe/blueprint/aer12
+	name = "aer12 blueprint"
+	icon_state = "blueprint2"
+	crafting_recipe_types = list(/datum/crafting_recipe/aer12)
+
 /obj/item/book/granter/crafting_recipe/blueprint/plasmarifle
 	name = "plasma rifle blueprint"
 	icon_state = "blueprint2"

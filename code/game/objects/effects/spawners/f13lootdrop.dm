@@ -1819,7 +1819,8 @@
 	loot = list(
 		/obj/item/book/granter/crafting_recipe/blueprint/am_rifle,
 		/obj/item/book/granter/crafting_recipe/blueprint/citykiller,
-		/obj/item/book/granter/crafting_recipe/blueprint/rangemaster
+		/obj/item/book/granter/crafting_recipe/blueprint/rangemaster,
+		/obj/item/book/granter/crafting_recipe/blueprint/aer12,
 	)
 
 /obj/effect/spawner/lootdrop/f13/blueprintVHighBallistics
